@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Justin 👋
 
-<!--
-**judoyulo/judoyulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small things for happiness and convenience.
 
-Here are some ideas to get you started:
+### 🛠 What I'm building now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Memory Tunnel](https://github.com/judoyulo/Memory-Tunnel)** — an app that quietly digs through your camera roll, finds the people you photograph most, and gives you a private space to share those memories with just one of them. Face recognition runs entirely on-device. No feed, no followers.
+
+→ [On the App Store](https://apps.apple.com/app/id6762140861) · [Landing page](https://judoyulo.github.io/Memory-Tunnel)
+
+### 💻 Stack I reach for
+
+`Swift` · `SwiftUI` · `CoreML` · `Ruby on Rails` · `Postgres` · `Fly.io` · `AWS S3`
+
+### 🧠 Things I think about
+
+- The opposite of feeds — apps for 1-2 people, not 1000
+- On-device ML and what it unlocks for privacy
+- Shipping small, complete things instead of starting big, abandoned ones
+
+### 📫 Reach me
+
+Email: `formers-lee.9e@icloud.com`
